@@ -31,9 +31,9 @@
 🎓 &emsp;Cursando Ciência da Computação no IFCE<br/><br/>
 💼 &emsp;Desenvolvedor front-end voluntário no <a target="_blank" href="https://www.linkedin.com/company/n%C3%BAcleo-de-desenvolvimento-de-softwares-nds/">NDS</a><br/><br/>
 🌱 &emsp;Atualmente estudando Angular<br/><br/>
-
 </p>
 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -53,6 +53,6 @@
 <br/>
 
 <p>
-<img alt="aaglis Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aaglis&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180px" width="49.5%"/>
-<img alt="aaglis Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aaglis&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180px" width="49.5%"/>
+<img alt="aaglis Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aaglis&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180px" width="48%"/>
+<img alt="aaglis Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aaglis&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180px" width="48%"/>
 </p>
