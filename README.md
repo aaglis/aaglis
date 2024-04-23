@@ -20,8 +20,7 @@
 </a>
 <a href="https://www.instagram.com/aglis_silvaa" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
-</a> 
-</p>
+</a>
 <br />
 
 # Sobre mim
@@ -29,9 +28,9 @@
 <p>
 <img align="right" width="350" src="/assets/techies.gif" alt="Coding gif" />
 
-🎓 &emsp; Cursando Ciência da Computação no IFCE(Instituto Federal de Educação, Ciência e Tecnologia do Ceará)<br/><br/>
-💼 &emsp; Desenvolvedor front-end voluntário no <a target="_blank" href="https://www.linkedin.com/company/n%C3%BAcleo-de-desenvolvimento-de-softwares-nds/">NDS</a><br/><br/>
-🌱 &emsp; Atualmente estudando Angular<br/><br/>
+🎓 &emsp;Cursando Ciência da Computação no IFCE<br/><br/>
+💼 &emsp;Desenvolvedor front-end voluntário no <a target="_blank" href="https://www.linkedin.com/company/n%C3%BAcleo-de-desenvolvimento-de-softwares-nds/">NDS</a><br/><br/>
+🌱 &emsp;Atualmente estudando Angular<br/><br/>
 
 </p>
 
@@ -54,6 +53,6 @@
 <br/>
 
 <p>
-<img alt="aaglis Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aaglis&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="190px" width="49.5%"/>
-<img alt="aaglis Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aaglis&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="190px" width="49.5%"/>
+<img alt="aaglis Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aaglis&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180px" width="49.5%"/>
+<img alt="aaglis Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aaglis&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180px" width="49.5%"/>
 </p>
