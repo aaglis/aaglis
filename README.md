@@ -24,7 +24,7 @@ My work spans event-driven architectures, cloud infrastructure, messaging, obser
 ## Experience
 
 <strong>LTAP — Full-stack Developer</strong><br />
-Building distributed systems and large-scale public education platforms across frontend, backend, and infrastructure. admissions workflows for IFCE Fortaleza, supported through a FAIFCE scholarship.
+Building distributed systems and large-scale public education platforms across frontend, backend, and infrastructure. admissions workflows for IFCE Fortaleza, supported through a [FAIFCE](https://faifce.ifce.edu.br/) scholarship.
 
 <strong>NDS · IFCE Maracanaú — Frontend Developer</strong><br />
 Contributed to institutional systems and internal platforms for the campus.
