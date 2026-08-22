@@ -21,15 +21,22 @@ I am currently a full-stack developer at **LTAP — Laboratory of Telematics, Ac
 
 My work spans event-driven architectures, cloud infrastructure, messaging, observability, and AI integrations, with a focus on reliability and maintainability.
 
-## Selected work
+## Experience
+
+<strong>LTAP — Full-stack Developer</strong><br />
+Building distributed systems and large-scale public education platforms across frontend, backend, and infrastructure. admissions workflows for IFCE Fortaleza, supported through a FAIFCE scholarship.
+
+<strong>NDS · IFCE Maracanaú — Frontend Developer</strong><br />
+Contributed to institutional systems and internal platforms for the campus.
+
+<strong>DunaSystem — Frontend Developer · 2022 · 4 months</strong><br />
+Worked at an early-stage startup accelerated by Casa Azul, part of O POVO.
+
+## Personal Projects
 
 ### [Intelliboard](https://github.com/aaglis/intelliboard)
 
 An AI agent-driven Kanban board that requires build, type-check, and test validation before work can be completed.
-
-### [VigIA Safety](https://github.com/aaglis/vigiIA-safety)
-
-A multi-tenant computer vision platform that detects workplace safety risks and creates incidents with auditable evidence.
 
 ## Tech
 
