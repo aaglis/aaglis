@@ -30,7 +30,7 @@ Building distributed systems and large-scale public education platforms across f
 Contributed to institutional systems and internal platforms for the campus.
 
 <strong>DunaSystem — Frontend Developer · 2022 · 4 months</strong><br />
-Worked at an early-stage startup accelerated by Casa Azul, part of O POVO.
+Worked at an early-stage startup accelerated by [Casa Azul](https://casaazul.vc/), part of [O POVO](https://www.opovo.com.br/).
 
 ## Personal Projects
 
