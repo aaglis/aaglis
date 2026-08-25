@@ -79,6 +79,6 @@ An AI agent-driven Kanban board that requires build, type-check, and test valida
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aaglis&show_icons=true&include_all_commits=true&rank_icon=default&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="Aglis's GitHub stats" />
-  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aaglis&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Aglis's most used languages" />
+  <img height="165" src="./profile/stats.svg" alt="Aglis's GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Aglis's most used languages" />
 </p>
